@@ -23,6 +23,16 @@ print("\nPython is\tthe best")
 favorite_language = " python "
 #Each case below will show you if there is any spaces on either side of 'pyhton' after being printed
 #From the output you will see that each strip does its job by removing the spaces on either side of the word
+#This is only done temporarily and can only be made permanently by setting the value of the word to itself with one of the strip methods in place
 print("spaces?->"+ favorite_language.rstrip()+ "<-spaces?")
 print("spaces?->"+ favorite_language.lstrip()+ "<-spaces?")
 print("spaces?->"+ favorite_language.strip()+ "<-spaces?")
+
+#To show that it is only permanent after the string adjustment
+print("spaces?->" + favorite_language)
+favorite_language = favorite_language.lstrip()
+print("spaces?->" + favorite_language)
+print(favorite_language)
+
+#!#Could be very useful in stripping whitespace when checking for usernames or password verification.
+
