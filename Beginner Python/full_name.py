@@ -12,3 +12,9 @@ full_name= "{first_name} {last_name}"
 
 #As you can tell this is what happens when you do not use the f-string format. It then prints the actual string in the quatation marks
 print(full_name)
+
+#This integrates using the f-string to format a string
+print(f"Hello, {full_name.title()}!")
+
+#I wonder what would happen if I just format the string
+print(f"full_name")
