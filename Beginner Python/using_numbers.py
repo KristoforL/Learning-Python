@@ -30,3 +30,25 @@ print("\n")
 
 universal_age = 14_000_000_000
 print(universal_age)
+
+print("\n")
+
+#You can set multiple variable to numbers at one time and this is only new in 3.6^
+#This could be helpful when dealing multiple constant vairbles or variables that will be changing
+#All of these are set to 0 at the moment
+x, y, z = 0, 0, 0
+
+#I will attempt to change them and set them equal to each other
+#This works and you can set them to be operated on
+x = 7
+y, z = x+4, x-9
+
+print(x)
+print(y)
+print(z)
+
+print("\n")
+
+#When stating a constant usually it is indicated by the variable name being all captial letters
+
+MAX_CONNECTIONS = 5000
