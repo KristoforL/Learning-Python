@@ -16,5 +16,12 @@ print(bicycles[0].upper())
 print(bicycles[1].lower())
 print(bicycles[2].title())
 
-#You can get the last element by identifying the -1 index
+#You can get the last element by identifying the -1 index and you can go backwards from there
 print(bicycles[-1])
+print(bicycles[-2])
+print(bicycles[-3])
+
+#You can also format the name of the indexes if they are strings like you would a normal string if it is a string. 
+print(bicycles[0].upper())
+print(bicycles[1].title())
+print(bicycles[2].lower())
