@@ -38,4 +38,8 @@ print(motorcycles1)
 del motorcycles1[1]
 print(motorcycles1)
 
-#You may want to 
+#You may want to remove an element and use it right away. In this case you would use the pop method
+print(motorcycles)
+popped_motorcycles = motorcycles.pop()
+print(motorcycles)
+print(popped_motorcycles)
