@@ -25,3 +25,7 @@ print(bicycles[-3])
 print(bicycles[0].upper())
 print(bicycles[1].title())
 print(bicycles[2].lower())
+
+#You can even use f-strings with list. 
+message = f"My first bicycle was a {bicycles[0].title()}!"
+print(message)
