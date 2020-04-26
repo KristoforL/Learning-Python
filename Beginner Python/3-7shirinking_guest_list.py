@@ -10,3 +10,13 @@ print(f"Sorry {guest.pop(0)}, they just called back and said I can only have 2 g
 print(f"Sorry {guest.pop(0)}, they just called back and said I can only have 2 guest. I want you to meet her in person when she gets back")
 print(f"Sorry {guest.pop(0)}, they just called back and said I can only have 2 guest. I have talked to you over he phone and will be looking forward to seeing you in person.")
 
+#Printing pictures to those who are still invited
+print(f"{guest[0].title()}, are you suer that I have nothing to worry about, when I meet your dad.")
+print(f"Hello Mr. {guest[1].title()}. How are you? I am glad that you were able to mnake it to dinner today.")
+
+#Going to delete the only 2 left in the list
+print(guest)
+del guest[0]
+del guest[0]
+print("Now looking at the list after using the delete method this should be empty brackets")
+print(guest)
