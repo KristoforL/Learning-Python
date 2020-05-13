@@ -27,5 +27,6 @@ people = {
 
 }
 
+#Going to clean this up some later and provide name first and last and where they are
 for person in people.items():
     print(person)
