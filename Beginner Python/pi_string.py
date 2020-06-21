@@ -14,7 +14,7 @@ print(len(pi_string))
 
 print("\n")
 
-filename1 = 'pi_million_digits.txt'
+filename1 = '/Users/ki/Desktop/Github/Learning-Python/Beginner Python/pi_million_digits.txt'
 with open(filename1) as file_object:
     lines = file_object.readlines()
 
