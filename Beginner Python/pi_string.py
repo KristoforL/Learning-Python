@@ -14,8 +14,8 @@ print(len(pi_string))
 
 print("\n")
 
-filename = 'pi_million_digits.txt'
-with open(filename) as file_object:
+filename1 = 'pi_million_digits.txt'
+with open(filename1) as file_object:
     lines = file_object.readlines()
 
 pi_string = ''
@@ -32,7 +32,7 @@ print("\n")
 #You can check the contents of a document to see if it contains a string within it
 
 birthday = input("What is your birthday mmddyy: ")
-if birthday in filename:
+if birthday in filename1:
     print(f"You birthday is in the first million digits of pi\n{birthday}")
 else:
     print(f"{birthday} is not in the first million digits of pi")
