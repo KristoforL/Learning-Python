@@ -1,0 +1,3 @@
+In Python you can avoid errors with semicolons
+In Python you can make quick programs to accomplish verbose goals
+In Python you can pick up on concepts easy such as reading files
