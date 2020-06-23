@@ -1,6 +1,6 @@
 #Going to create a while loop that will continue to add users to a list
 
-guest = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/guestbook.txt'
+guest = 'guestbook.txt'
 
 cont = True
 while cont:

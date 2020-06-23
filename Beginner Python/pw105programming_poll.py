@@ -1,6 +1,6 @@
 #This is a script that will ask users for theri opinion on programming and store it in a file
 
-poll = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/poll_response.txt'
+poll = 'poll_response.txt'
 
 cont = True
 

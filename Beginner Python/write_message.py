@@ -1,6 +1,6 @@
 #Going to to write to a file in the script and this will overwrite what is in the file every time it is ran.
 
-file = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/programming.txt'
+file = 'programming.txt'
 
 with open(file,'w') as filename:
     filename.write("I love programming\n")

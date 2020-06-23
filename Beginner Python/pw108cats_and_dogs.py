@@ -1,8 +1,8 @@
 #This will read a list of files and perform a print of the files content
 
 
-cats = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/cats.txt'
-dogs = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/dogs.txt'
+cats = 'cats.txt'
+dogs = 'dogs.txt'
 
 files = [cats, dogs]
 

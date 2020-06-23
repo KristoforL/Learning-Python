@@ -21,10 +21,10 @@ def count_word(filename):
         print(f"The file {filename} has about {num_words} words.")
 
 
-filename = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/alice.txt'
-filename1 = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/pi_million_digits.txt'
-filename2 = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/little_women.txt'
-filename3 = 'little_women.txt'
+filename = 'alice.txt'
+filename1 = 'pi_million_digits.txt'
+filename2 = 'little_women.txt'
+filename3 = '/little_women.txt'
 
 count_word(filename)
 count_word(filename2)

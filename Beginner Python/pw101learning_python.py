@@ -1,6 +1,6 @@
 #In this script I will read in a file and print out what the file has
 
-python_file = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/python_studies.txt'
+python_file = 'python_studies.txt'
 
 #This will read the contents of the file with the read method and printing it out as it is in the file
 with open(python_file) as file:

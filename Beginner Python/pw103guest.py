@@ -2,7 +2,7 @@
 
 user = input("What is you name: ")
 
-guest = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/guest.txt'
+guest = 'guest.txt'
 
 with open(guest,'w') as guest_name:
     guest_name.write(user)

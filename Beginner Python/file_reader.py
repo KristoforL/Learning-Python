@@ -4,10 +4,10 @@
 #with open('/pi_digits.txt') as file_object:
 
 #You can have the file in a relative folder and use absolute path to the file
-with open('/Users/kris/Desktop/Github/Learning Python/Learning-Python/pi_digits.txt') as file_object:
+#with open('/Users/kris/Desktop/Github/Learning Python/Learning-Python/pi_digits.txt') as file_object:
 
 #You chould be able to get the same results with relative path finding as well as long as you know where the 
-#with open('../pi_digits.txt') as file_object:
+with open('../pi_digits.txt') as file_object:
 
    contents = file_object.read()
 

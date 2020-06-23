@@ -1,7 +1,7 @@
 #Copying the 10-8 work and making it fail silently
 
-cats = '/sers/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/cats.txt'
-dogs = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/dogs.txt'
+cats = 'ats.txt'
+dogs = 'dogs.txt'
 
 files = [cats, dogs]
 
