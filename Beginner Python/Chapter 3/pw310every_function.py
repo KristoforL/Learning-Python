@@ -1,0 +1,36 @@
+#In this program I wil be using every function and method at least one
+
+#Declare a list
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'i', 'j', 'h']
+
+print(letters)
+letters.pop(-1)
+print(letters)
+letters.append('h')
+print(letters)
+letters.insert(8, 'i')
+print(letters)
+letters.remove('a')
+print(letters)
+letters.insert(0, 'a')
+print(letters)
+sorted(letters)
+print(letters)
+sorted(letters, reverse=True)
+print(letters)
+letters.reverse()
+print(letters)
+letters.reverse()
+print(letters)
+del letters[-1]
+print(letters)
+letters.append('h')
+print(letters)
+print(f"{letters[0].title()}")
+letters.sort()
+print(letters)
+letters.sort(reverse=True)
+print(letters)
+letters.sort(reverse=True)
+print(letters)
+print(len(letters))
