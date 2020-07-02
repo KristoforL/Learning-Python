@@ -53,7 +53,7 @@ plays = 0
 won = False
 
 # Let's set a max number of tries, in case this takes forever!
-max_tries = 1_000_000
+max_tries = 2_000_000
 
 while not won:
     new_ticket = make_random_ticket(possibilities)

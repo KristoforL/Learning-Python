@@ -1,6 +1,6 @@
-filename = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/cocoa_and_chocolate.txt'
-filename1 = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/little_women.txt'
-filename2 = '/Users/kris/Desktop/Github/Learning Python/Learning-Python/Beginner Python/alice.txt'
+filename = 'cocoa_and_chocolate.txt'
+filename1 = 'little_women.txt'
+filename2 = 'alice.txt'
 
 
 def count_words(book, word):

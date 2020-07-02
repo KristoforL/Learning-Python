@@ -6,6 +6,9 @@
 
 unconfirmed_users = ['alice', 'brian', 'candance']
 confirmed_user = []
+confirmed_user.append(unconfirmed_users.pop(unconfirmed_users[1]))
+print(f"{unconfirmed_users}")
+
 
 #Verify each user until there are no more unconfirmed users
 #Move verified users from one list to another
@@ -18,3 +21,7 @@ while unconfirmed_users:
 print("The following users have been verified")
 for person in confirmed_user:
     print(f"{person.title()}")
+
+
+
+
