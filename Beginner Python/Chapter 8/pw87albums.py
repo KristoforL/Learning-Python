@@ -5,7 +5,7 @@ def make_albums(artist, album, tracks=None):
 
     #Stores the album as a dictionary
     album = {'Artist': artist.title(), 'Album': album.title()}
-    #Checks to see if there is anything in the third parameter and if there is it is prints it
+    #Checks to see if there is anything in the third parameter and if there is it prints it
     if tracks:
         album['Tracks'] = tracks
     return album
