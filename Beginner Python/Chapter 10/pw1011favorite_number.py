@@ -15,5 +15,5 @@ with open(filename, 'w') as f:
 #This is a function that will get the number and if there is something in the file
 with open(filename) as f:
     number = json.load(f)
-print(f"I know your faavorite number. It is {number}")
+print(f"I know your favorite number. It is {number}")
 
