@@ -1,4 +1,4 @@
-#This is practicee declaring variables, and printing them when they have quotations in them
+#This is practice declaring variables, and printing them when they have quotations in them
 
 #Declaring variables for each string I will need
 #I will add it into a string and use single quotes for this since it uses double quotation marks. 

@@ -3,12 +3,12 @@
 #Declare a list 
 guest = ['eric l.', 'granny', 'kim', 'cookie']
 
-#Pop those people who will not be able to make it becaue I will be printing their names later
+#Pop those people who will not be able to make it because I will be printing their names later
 #Creating a list to append those guest who cannot make it
 rsvp_no=[]
 
 #Letting everyone know that some people cannot make it.
-print("Not everyone from the original guest list can make it thee dinner so I will be changing some new naames to the list.")
+print("Not everyone from the original guest list can make it thee dinner so I will be changing some new names to the list.")
 
 #Removing the guest who cannot make it and adding them to a new list for using later
 #Adding new people to the list in those indexes

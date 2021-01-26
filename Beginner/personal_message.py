@@ -1,6 +1,6 @@
 #Delcared a variable
-first_name = "kim"
-last_name = "neal"
+first_name = "K"
+last_name = "N"
 
 #wrapped this in quotations because it is still a string and thus needs to be wrapped in quotes
 fullname = f"{first_name} {last_name}"
@@ -14,8 +14,8 @@ print(f"{fullname.title()}")
 #Testing to see if I can use single quotes and get the same results
 
 #Delcared a variable in SINGLE QUOTES
-first_name = "kim"
-last_name = "neal"
+first_name = "J"
+last_name = "L"
 
 #Wrapped this in SINGLE quotations because it is still a string and thus needs to be wrapped in quotes
 fullname = f"{first_name} {last_name}"

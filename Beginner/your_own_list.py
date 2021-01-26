@@ -1,4 +1,4 @@
-#This is a freestyle practice that will allow me to choose my fsvorite thing and print them in a statement.
+#This is a freestyle practice that will allow me to choose my favorite thing and print them in a statement.
 
 #I will choose cars. The ones I have, the ones I had, and the ones I want
 cars = ["saturn", "jeep", "tesla", "ford gt"]

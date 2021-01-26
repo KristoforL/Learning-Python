@@ -8,7 +8,7 @@ print(vacay)
 print(sorted(vacay))
 #Print the original list showing it was a temp sort
 print(vacay)
-#Print a list using sorted() in the reverse order. You must use the reverse key in sorted arguement
+#Print a list using sorted() in the reverse order. You must use the reverse key in sorted argument
 print(sorted(vacay, reverse=True))
 #Print vacay to show that it is still in original order
 print(vacay)
@@ -23,6 +23,6 @@ print(vacay)
 #Permanently sort the list and then print it
 vacay.sort()
 print(vacay)
-#Permenantly sort the list and reverse the order so it is Z-A
+#Permanently sort the list and reverse the order so it is Z-A
 vacay.sort(reverse=True)
 print(vacay)

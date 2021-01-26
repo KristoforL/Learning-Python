@@ -1,7 +1,7 @@
-#This is practice witth getting rid of white space before and after a string
+#This is practice with getting rid of white space before and after a string
 
-#Declare sttring with white space before and after
-#You could just use spaces but I am using tab and nextline to exagerate the white space being remvoed
+#Declare string with white space before and after
+#You could just use spaces but I am using tab and nextline to exaggerate the white space being removed
 word = "\tspaces?\n"
 
 #Printing string with space and showing there is space on either side

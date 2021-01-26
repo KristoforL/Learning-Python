@@ -3,12 +3,12 @@ message = "Would you believe me is I told you, The next line is the same variabl
 print(message)
 
 #Change the variable so that from this point it is as new message
-message = "I know for my programmign friends this makes sense"
+message = "I know for my programming friends this makes sense"
 
 print(message)
 
 #Changed once more to finally say this message
-message = "I hope if you do not undertstand you ask, because this is the second time I have changed this variable."
+message = "I hope if you do not understand you ask, because this is the second time I have changed this variable."
 
 print(message)
 
