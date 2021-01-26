@@ -1,6 +1,6 @@
 #I am going to recreate a program made earlier in then add the several small task after it
 
-my_food = ['pizza', 'flafel', 'carrot cake', 'pie', 'cereal', 'chicken']
+my_food = ['pizza', 'falafel', 'carrot cake', 'pie', 'cereal', 'chicken']
 
 
 for food in my_food[:3]:

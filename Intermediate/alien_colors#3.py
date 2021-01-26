@@ -1,4 +1,4 @@
-#Continuing the laast practice and using anad if elif else statement
+#Continuing the last practice and using and if elif else statement
 
 alien_color = 'green'
 

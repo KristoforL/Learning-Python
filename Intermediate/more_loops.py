@@ -1,6 +1,6 @@
 #This will be to use two for loops to print all the things in the two list food list from food.py
 
-my_food = ['pizza', 'flafel', 'carrot cake', 'pie', 'chips', 'philly cheesesteak']
+my_food = ['pizza', 'falafel', 'carrot cake', 'pie', 'chips', 'philly cheesesteak']
 friend_food = my_food[:]
 
 

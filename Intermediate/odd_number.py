@@ -1,6 +1,6 @@
 #I have to create a list that only prints every third odd number
 
-odd_nnumbers = list(range(1, 21, 2))
+odd_numbers = list(range(1, 21, 2))
 
-for number in odd_nnumbers:
+for number in odd_numbers:
     print(number)

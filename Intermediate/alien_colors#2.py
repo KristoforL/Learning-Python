@@ -1,4 +1,4 @@
-#Continuing the laast practice anad using anad if else statement
+#Continuing the last practice and using and if else statement
 
 alien_color = 'red'
 

@@ -1,4 +1,4 @@
-#I will be practicing what I have learned for this where I have to a make a list of 5 usernames and loop to greet through esch one
+#I will be practicing what I have learned for this where I have to a make a list of 5 usernames and loop to greet through each one
 
 #if you reverse which users list is commented out you can see both the output statements
 users = ['marie', 'don', 'chief', 'admin', 'cheese']

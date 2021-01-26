@@ -1,4 +1,4 @@
-#Going to practice if statements during this assingment
+#Going to practice if statements during this assignment
 
 alien_color = 'green'
 

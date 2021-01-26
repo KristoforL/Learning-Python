@@ -1,6 +1,6 @@
 #This assignment is to geneate a dictionary for a person
 
-person = {'first name': 'k', 'last name': 'n', 'age': 25, 'city':'alanta'}
+person = {'first name': 'k', 'last name': 'n', 'age': 25, 'city':'atlanta'}
 
 print(person)
 
