@@ -3,7 +3,7 @@
 file = 'programming.txt'
 
 with open(file,'w') as filename:
-    filename.write("I love programming\n")
+    filename.write("I love programming a lot\n")
     #Here you can add another string to the file and have two lines
     #It will still overwrite what is already in the file
     filename.write("I love programming\n")
