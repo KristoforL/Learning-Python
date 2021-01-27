@@ -18,6 +18,6 @@ print(max(digits))
 print(sum(digits))
 
 
-#You can be evev futher efiicient by making it one line called an list comprehension
+#You can be ever futher efficient by making it one line called an list comprehension
 squares = [value**2 for value in range(1, 11)]
 print(squares)

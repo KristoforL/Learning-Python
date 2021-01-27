@@ -2,7 +2,7 @@
 
 requested_topping = 'mushroom'
 
-if requested_topping != 'achovies':
+if requested_topping != 'anchovies':
     print("Hold the anchovies")
 
 add_toppings = ['pepperoni', 'italian sausage', 'bacon', 'mushrooms']

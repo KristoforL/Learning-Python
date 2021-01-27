@@ -1,7 +1,7 @@
 
 
 def count_word(filename):
-    """Coutning the words of any file"""
+    """Counting the words of any file"""
 
 #We are using the encoding because the encoding is different than the systems default
 #With this we will try and catch an exception for file not found

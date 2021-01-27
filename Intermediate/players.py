@@ -13,7 +13,7 @@ print(players[:4])
 #You can use negative numbers here as well in either indext to help specify an end of beginning when the list is longer than usual
 print(players[3:])
 
-#Here is an examaple of using the slice in a for loop
+#Here is an example of using the slice in a for loop
 #This will print up until index 3 not including 3 which should be 'charles', 'martini', 'michael'
 print("Here are the first three players on my team")
 for player in players[:3]:

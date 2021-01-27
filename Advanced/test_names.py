@@ -7,7 +7,7 @@ while True:
     first = input("\nPlease give me a first name: ")
     if first == 'q':
         break
-    last = input("\nPlease gice me a last name: ")
+    last = input("\nPlease give me a last name: ")
     if last == 'q':
         break
     

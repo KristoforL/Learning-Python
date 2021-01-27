@@ -1,6 +1,6 @@
-#There are several ways of passing arguements to a function
+#There are several ways of passing arguments to a function
 
-#This is a positional arguement where it matters what you put first in the arguement when calling the function
+#This is a positional argument where it matters what you put first in the argument when calling the function
 def describe_pet(animal_type, pet_name):
     """Display information about a pet."""
     print(f"\nI have a {animal_type}.")
@@ -11,12 +11,12 @@ describe_pet('boxer, pitt mix', 'waldo')
 #If you did this backwards it would not make sense
 describe_pet('waldo', 'boxer, pitt mix')
 
-#With the next call we change one thing and make it a keyword arguement. We make sure the keyword is being used when calling the function so there is no confusion
-#I put the arguements backwards but it does not matter and still prints correctly
+#With the next call we change one thing and make it a keyword argument. We make sure the keyword is being used when calling the function so there is no confusion
+#I put the arguments backwards but it does not matter and still prints correctly
 describe_pet(pet_name='waldo', animal_type='boxer, pitt')
 
 
-#With this function we make one arguements default to a specific value
+#With this function we make one arguments default to a specific value
 #When doing this you want to have that preset value at the end of the functions to be taken in by the function
 
 def describe_pet(pet_name, animal_type='dog'):
@@ -26,7 +26,7 @@ def describe_pet(pet_name, animal_type='dog'):
 
 
 describe_pet("waldo")
-#You can still use the arguement name if you want to change it from dog to something another animal
+#You can still use the argument name if you want to change it from dog to something another animal
 describe_pet('ezekiel', 'cat')
 
 
@@ -35,5 +35,5 @@ def describe_pet(pet_name, animal_type):
     print(f"\nI have a {animal_type}.")
     print(f"My {animal_type}'s name is {pet_name.title()}.")
 
-#Just putting in the function will produce a type error where it cannot find the missing aarguements
+#Just putting in the function will produce a type error where it cannot find the missing arguments
 describe_pet()

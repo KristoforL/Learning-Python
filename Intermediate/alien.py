@@ -34,7 +34,7 @@ alien_0['points'] = 5
 
 print(f"The alien color is {alien_0['color']}")
 
-#Changinig the color of the values in the dictionary
+#Changing the color of the values in the dictionary
 alien_0['color'] = 'yellow'
 
 print(f"The alien color is now {alien_0['color']}")

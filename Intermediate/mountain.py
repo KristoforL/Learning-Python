@@ -9,9 +9,9 @@ polling_active = True
 while polling_active:
     #Prompt for the persons name
     name = input("\nWhat is your name: ")
-    response = input("Which moountain would you like to climb someday: ")
+    response = input("Which mountain would you like to climb someday: ")
 
-    #Store the reesponse in the dictionary
+    #Store the response in the dictionary
     responses[name] = response
 
     #Find out if anyone else is going to take the poll
