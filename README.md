@@ -6,7 +6,7 @@ I run these in vscode but if you would like to run all of the functions in this 
 
 If you have any questions or about the code or something is not working please by all means contribute or leave a comment and I will get back to you on it or fix it. 
 
-TO USE:
+# TO USE:
 
 Download the zip and run programs as wanted. Each file will have a brief description of what it is trying to accomplish some notes as well as a break down of the how the code can be manipulated based on use case
 
@@ -15,6 +15,7 @@ Beginner folder is strictly for basics that all python programmers should unders
 Intermediate folder is for loops and more advanced concepts like File IO
 
 Advanced folder contains functions, importing and unit testing
+
 
 # Alien Invasion: 
 A game that can be played by running the alien_invasion.py file

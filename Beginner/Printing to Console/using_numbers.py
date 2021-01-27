@@ -34,7 +34,7 @@ print(universal_age)
 print("\n")
 
 #You can set multiple variable to numbers at one time and this is only new in 3.6^
-#This could be helpful when dealing multiple constant vairbles or variables that will be changing
+#This could be helpful when dealing multiple constant variables or variables that will be changing
 #All of these are set to 0 at the moment
 x, y, z = 0, 0, 0
 
@@ -49,6 +49,6 @@ print(z)
 
 print("\n")
 
-#When stating a constant usually it is indicated by the variable name being all captial letters
+#When stating a constant usually it is indicated by the variable name being all capital letters
 
 MAX_CONNECTIONS = 5000

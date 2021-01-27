@@ -14,4 +14,4 @@ print(message)
 
 #because code is red top to bottom if I print it again it will say the same thing again
 
-print(message + " The code did not glitch rather I printed it twice to show I did not change it rather added to it with concatination.")
+print(message + " The code did not glitch rather I printed it twice to show I did not change it rather added to it with concatenation.")
