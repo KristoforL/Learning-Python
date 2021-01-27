@@ -32,7 +32,7 @@ motorcycles1.insert(1, 'ducati')
 print(motorcycles1)
 
 print("\n###DELETING AN ELEMENT FROM LIST USING DEL###")
-#We can also remove elements fromt the lsit and through a few ways
+#We can also remove elements from the list and through a few ways
 #You can use del to remove elements in the list
 #Since this something you would do to a list it just a declaration and I will delete the first index in motorcycles1 and show that honda is no longer there
 print(motorcycles1)

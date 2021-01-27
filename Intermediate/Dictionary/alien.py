@@ -45,7 +45,7 @@ print(f"The alien color is now {alien_0['color']}")
 alien_0 = {'x-position': 0, 'y-position': 25, 'speed':'medium'}
 print(f"Original position {alien_0['x-position']}")
 
-#Move the alient to the right
+#Move the alien to the right
 #Determin how far to move the alien based on its current speed.
 
 if alien_0['speed'] == 'slow':
@@ -62,8 +62,8 @@ alien_0['x-position'] = alien_0['x-position'] + x_increment
 print(f"New position: {alien_0['x-position']}")
 
 
-#You can use the del function to remove kay value pairs from the dicionary
-#When you delete the key pair you do so permenantly
+#You can use the del function to remove kay value pairs from the dictionary
+#When you delete the key pair you do so permanently
 alien_0 = {'x-position': 0, 'y-position': 25, 'speed': 'medium'}
 print(alien_0)
 del(alien_0['x-position'])
