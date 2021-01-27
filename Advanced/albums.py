@@ -16,5 +16,5 @@ print(drake)
 #Checks to see if the third argument is taken in and used
 cole = make_albums('j cole', '2014 forest hills drive', 11)
 print(cole)
-flobots = make_albums('flobots', 'rage against the machinces')
+flobots = make_albums('flobots', 'rage against the machines')
 print(flobots)

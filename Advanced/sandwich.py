@@ -1,4 +1,4 @@
-#Creating a funciton that takes in a list of items for a sandwich
+#Creating a function that takes in a list of items for a sandwich
 #It should be able to take in as many items as you want
 #It will return a summary of the sandwich you ordered 
 
@@ -8,12 +8,12 @@ def make_sandwich(toppings):
     for topping in toppings:
         print(f"{topping}")
 
-items = ['turkey', 'cheese', 'no pickle', 'no maayo', 'no mustard', 'no tomato', 'fruit punch']
+items = ['turkey', 'cheese', 'no pickle', 'no mayo', 'no mustard', 'no tomato', 'fruit punch']
 make_sandwich(items)
 print("\n")
-items = ['turkey', 'cheese', 'no pickle', 'no maayo', 'no mustard']
+items = ['turkey', 'cheese', 'no pickle', 'no mayo', 'no mustard']
 make_sandwich(items)
 print("\n")
-items = ['turkey', 'cheese', 'no pickle', 'no maayo', 'no mustard', 'no tomato', 'pie', 'pizza', 'hot sauce']
+items = ['turkey', 'cheese', 'no pickle', 'no mayo', 'no mustard', 'no tomato', 'pie', 'pizza', 'hot sauce']
 make_sandwich(items)
 print("\n")

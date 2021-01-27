@@ -1,4 +1,4 @@
-#This will ttake in arguments and then return them when called and placed in
+#This will take in arguments and then return them when called and placed in
 
 def city_country(city, country):
     print(f"{city.title()}, {country.title()}")

@@ -1,11 +1,11 @@
 #We are going to import from sorting.py in multiple way
-#Import all cotents of sorting.py
+#Import all contents of sorting.py
 import sorting
 
 numbers = [1, 0, 15, -4, 32, 99, -4]
 print(sorting.bubble(numbers))
 
-#Import function soritng from sorting so no need for dot notation
+#Import function sorting from sorting so no need for dot notation
 from sorting import sorting
 
 print(sorting(numbers))

@@ -1,6 +1,6 @@
 #Going ot copy the same thing over from 8-9 and instead take from a list add to an empty list and then print the list
 
-#This is an emepty list to append to while we remove items list argument
+#This is an empty list to append to while we remove items list argument
 sent_messages = []
 #This is the list of strings that we will be pulling from.
 text = ['I like pie', 'I only wish I could have some red velvet cake',

@@ -1,5 +1,5 @@
 #This is some sorting that I have had on my white board and it is time to put in my github
-#You could use sort() and sorted() but lets say you want create your owne sorting
+#You could use sort() and sorted() but lets say you want create your own sorting
 
 def bubble(list_a):
     index_len = len(list_a)-1

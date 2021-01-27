@@ -1,4 +1,4 @@
-#Not sure why but the all the functions are showing as yellow for some reason and yet the code still works
+#Importing functions and running them in this file
 
 from printing_functions import *
 

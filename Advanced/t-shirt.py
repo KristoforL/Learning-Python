@@ -1,5 +1,5 @@
-#Going to create a function that takes in two arguements and call the function
-#Going to print it out using the positional arguements and then using keyword arguements
+#Going to create a function that takes in two arguments and call the function
+#Going to print it out using the positional arguments and then using keyword arguments
 
 def shirt(size, text):
     """Printing a shirt size and what it should say."""

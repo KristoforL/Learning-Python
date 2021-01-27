@@ -8,7 +8,7 @@ def make_album(artist, album, tracks=None):
         album['Tracks'] = tracks
     return album
 
-#This is my boolean for continuiing 
+#This is my boolean for continuing 
 more = True
 
 while more:

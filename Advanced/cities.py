@@ -1,4 +1,4 @@
-#Going to creaet a functiotn that allows cities and functions to be passed aas arguements
+#Going to create a function that allows cities and functions to be passed aas arguments
 
 def cities(city, country = 'usa'):
     """Prints out a city and the country it is located in"""
@@ -7,6 +7,6 @@ def cities(city, country = 'usa'):
 
 cities('atlanta')
 
-cities('los angelos')
+cities('los angeles')
 
 cities('toronto', 'canada')

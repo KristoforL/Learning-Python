@@ -1,6 +1,6 @@
-#Create a program that takes in 2 postional values and as many arbitrary ones as possible
+#Create a program that takes in 2 positional values and as many arbitrary ones as possible
 
-#This funciton will return the information in the given parameter an the postional statement 
+#This function will return the information in the given parameter an the positional statement 
 def make_profile(first, last, **other_info):
     """Returns info about a person first name last name and random facts"""
     #You are basically making these key pair values by assigning them to first and last name
