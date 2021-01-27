@@ -1,4 +1,4 @@
-#Making alist of dictionaries to reference
+#Making a list of dictionaries to reference
 
 alien_0 = {'color':'green', 'points':5, }
 alien_1 = {'color':'yellow', 'points':10, }
@@ -10,7 +10,7 @@ for alien in aliens:
     print(alien)
 
 #I can make a list of dictionaries easily and nearly autonomously
-#Going to start with an empty list and use the range method with a for looop to make aliens and add them to the dictionary
+#Going to start with an empty list and use the range method with a for loop to make aliens and add them to the dictionary
 
 aliens =[]
 

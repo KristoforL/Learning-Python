@@ -1,6 +1,6 @@
 #I will make this a infinite loop
 
-#This loop is inifinite because the check for age happens outside of the loop and loop continues 
+#This loop is infinite because the check for age happens outside of the loop and loop continues 
 old = input("\nHow old is the viewer\nYou can enter 0 to end the program:\n")
 old = int(old)
 

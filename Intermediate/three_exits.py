@@ -1,4 +1,4 @@
-#Going to rereate a previous piece of work and add three ways to exit the code
+#Going to recreate a previous piece of work and add three ways to exit the code
 
 
 #This program is ending due to a conditional statement

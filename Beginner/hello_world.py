@@ -11,4 +11,4 @@ print(message)
 
 #How to read stack traces and errors
 print(mesage)
-#It will generate an error thst tells you the file and the line it is located on. Then it will describe the error. In this case 'mesage' is not defined
+#It will generate an error that tells you the file and the line it is located on. Then it will describe the error. In this case 'mesage' is not defined

@@ -1,4 +1,4 @@
-#This is the first practice I will get with this list and loop fucntions
+#This is the first practice I will get with this list and loop functions
 
 #Make a list for the types of pizza I like
 pizzas = ['cheese', 'pepperoni', 'italian sausage']

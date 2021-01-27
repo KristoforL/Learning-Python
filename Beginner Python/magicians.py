@@ -15,24 +15,24 @@ for magician in magicians:
     #You can add more the loop as long as is is till indented after the for loop. This will print for each magician in the list
     print(f"I can't wait to see your next trick {magician.title()}.\n")
 
-#Becuase this is not indented this this is not part of the loop and prints once
+#Because this is not indented this this is not part of the loop and prints once
 print("Thank you, everyone. That was a great magic show!")
 
 
 #Again indenting is important and should not be forgot or you will cause a few types of errors depending on where your indent error is
-#This is just telling you that the line after the declaration of the for loop is not indeneted and should be. Uncomment the for for and print statement below to see the indenticator telling you that the block is not indented
+#This is just telling you that the line after the declaration of the for loop is not indeneted and should be. Uncomment the for for and print statement below to see the indent indicator telling you that the block is not indented
 
 #for magician in magicians:
 #print(magicians)
 
-#This is not a syntax error but it will not show up in the terminal. It will showin the results and it is called a logical error
+#This is not a syntax error but it will not show up in the terminal. It will show in the results and it is called a logical error
 for magician in magicians:
     print(f"{magician.title()}, that was a great trick!")
-    #Wihtout this indent it will only print for one magician instead of for every magician.
+    #Without this indent it will only print for one magician instead of for every magician.
 print(f"I can't wait to see your next trick {magician.title()}.\n")
 
 
-#If you indent something unneccessarily then you will be told as well. Uncomment these below two line to see the unecpected indent error
+#If you indent something unnecessarily then you will be told as well. Uncomment these below two line to see the unexpected indent error
 #message = "This is a message"
     #print(message)
 

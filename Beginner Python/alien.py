@@ -17,7 +17,7 @@ alien_0 = {'color': 'green', 'points': 5}
 new_points = alien_0['points']
 print(f"You just earned {new_points} points!")
 
-#We are adding new key value pairs to tthe dictionary
+#We are adding new key value pairs to the dictionary
 alien_0 = {'color': 'green', 'points': 5}
 
 alien_0['x-position'] = 0

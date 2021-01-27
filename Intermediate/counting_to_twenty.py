@@ -10,7 +10,7 @@ for number in twenty:
 for number in range(1, 21):
     print(number)
 
-#Declare an emepty list and append to the list then print the list
+#Declare an empty list and append to the list then print the list
 count = []
 for number in range(1, 21):
     count.append(number)
