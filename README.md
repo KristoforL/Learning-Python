@@ -10,7 +10,8 @@ If you have any questions or about the code or something is not working please b
 
 Download the zip and run programs as wanted. Each file will have a brief description of what it is trying to accomplish some notes as well as a break down of the how the code can be manipulated based on use case. 
 
-**All files not in a specific folder are for the use of FILE IO or showing data in the demonstration**
+***All files not in a specific folder are for the use of FILE IO or showing data in the demonstration**
+***I am still working on organizing the folder so that the files are in the best location, but some files will be created around the folder structure**
 
 Beginner folder is strictly for basics that all python programmers should understand when first starting out.
 

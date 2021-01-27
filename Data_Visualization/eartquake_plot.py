@@ -3,7 +3,7 @@
 import json
 
 #Explore the structure of the data
-filename = 'Beginner Python/Chapter 16/data/eq_data_1_day_m1.json'
+filename = 'Data_Visualization/Chapter 16/data/eq_data_1_day_m1.json'
 with open(filename) as f:
     all_eq_data = json.load(f)
 
@@ -23,7 +23,7 @@ print(mags[:10])
 print(lons[:5])
 print(lats[:5])
 
-readable_file = 'Beginner Python/Chapter 16/data/readable_eq_data.json'
+readable_file = 'Data_Visualization/Chapter 16/data/readable_eq_data.json'
 with open(readable_file, 'w') as f:
     json.dump(all_eq_data, f, indent=4)
 

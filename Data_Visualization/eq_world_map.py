@@ -3,7 +3,7 @@ import json
 from plotly.graph_objs import Scattergeo, Layout
 from plotly import offline
 
-filename = 'Beginner Python/Chapter 16/data/eq_data_1_day_m1.json'
+filename = 'Data_Visualization/data/eq_data_30_day_m1.json'
 with open(filename) as f:
     all_eq_data = json.load(f)
 
