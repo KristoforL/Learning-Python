@@ -4,7 +4,7 @@ people = {
     'aeinstein': {
         'first': 'albert',
         'last': 'einstein',
-        'location': 'priniceton',
+        'location': 'princeton',
     },
 
     'mcurie': {

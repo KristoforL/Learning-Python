@@ -2,7 +2,7 @@
 #I will store it in a list and then return it at the end of the order with final statement that will print out each topping
 
 req_toppings = "What do you want on your pizza: "
-req_toppings += "\nEnter quit to stop the program "
+req_toppings += "\nEnter quit to stop the program.\n"
 final_order = []
 active = True
 

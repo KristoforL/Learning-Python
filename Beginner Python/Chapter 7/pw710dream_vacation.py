@@ -1,17 +1,17 @@
 
+#There is list a dictionary created and a while loop is created so that you can add to the dictionary the key and value then when the loop is over the dictionary is printed with each person and the place they want to visit.
 
 vacation = {}
 
 more_vacay = True
 
 while more_vacay:
-    name = input("What is your name: ")
-    vacay = input("Where is a place you would like to visit: ")
+    name = input("What is your name:\n")
+    vacay = input("Where is a place you would like to visit:\n")
 
     vacation[name] = vacay
 
-    repeat = input("Would you like to continue putting in vacations? yes/no: ")
-    print("\n")
+    repeat = input("Would you like to continue putting in vacations? yes/no:\n")
     
     if repeat == 'no':
         more_vacay = False

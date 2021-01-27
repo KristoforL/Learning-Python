@@ -14,7 +14,7 @@ pets = {
         'location': 'atlanta',
     },
 
-    'dillan': {
+    'dillon': {
         'owner': 'jeremy',
         'type': 'lab pitt',
         'location': 'decatur',
@@ -22,7 +22,7 @@ pets = {
 
     'blue': {
         'owner': 'christian',
-        'type': 'lab pittt',
+        'type': 'lab pitt',
         'location': 'dekalb',
     },
 

@@ -2,7 +2,7 @@
 #They will then be checked to see what age corresponds to the appropriate price
 #Going to loop it all and have them input q when they are done
 
-total_people = input("How many people are seeing a movie: ")
+total_people = input("How many people are seeing a movie:\n")
 total_people = int(total_people)
 
 
@@ -14,7 +14,7 @@ price = 0
 
 while count <= total_people:
     age_check = total_people
-    age = input("\nHow old is the next: ")
+    age = input("\nHow old is the next:\n")
     age = int(age)
 
     #This checks the ages given to see what the price is for each person
