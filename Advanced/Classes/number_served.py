@@ -1,6 +1,5 @@
 #Going to continue with the restaurant class and add an attribute and method
 
-
 class Make_Restaurant:
     """This will be the creation of the class"""
 

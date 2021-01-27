@@ -42,7 +42,7 @@ class Battery:
     """A simple attempt to model a battery for an electric car"""
 
     def __init__(self, battery_size=75):
-        """Initialize the batterys attributes"""
+        """Initialize the batteries attributes"""
         self.battery_size = battery_size
 
     def describe_battery(self):

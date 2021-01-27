@@ -1,6 +1,6 @@
 #When you do not know how many arguments you are going to be passing in a function then 
 
-#The asterisk makes an empty tuple called toppings and since it is a tupe it will not be able to be changed
+#The asterisk makes an empty tuple called toppings and since it is a type it will not be able to be changed
 #Print off the actual list
 def make_pizza(*toppings):
     """Print the list of toppings that have been replaced."""

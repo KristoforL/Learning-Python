@@ -1,5 +1,5 @@
-from pw93users import Users
-from pw97admin import Admin
+from users import Users
+from admin import Admin
 
 JQ = Users('JQ', 'L', 26, 'Georgia')
 KN = Admin('K', 'N', 25, 'Mississippi')

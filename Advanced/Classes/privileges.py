@@ -1,6 +1,4 @@
 #Going to make a separate class for privileges
-
-
 class Users:
     """Creates users and stores them"""
 

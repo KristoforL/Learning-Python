@@ -26,7 +26,7 @@ class Admin(Users):
         self.privileges =[]
 
     def show_privileges(self):
-        """Shows all the priveleges that the admin has"""
+        """Shows all the privileges that the admin has"""
         print(f"{self.first} has the following privileges:")
         for privilege in self.privileges:
             print(privilege)

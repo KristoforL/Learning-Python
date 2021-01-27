@@ -1,5 +1,5 @@
 #Going to import classes from other module
-from pw91restaurant import *
+from restaurant import *
 
 test = Make_Restaurant('The Swamp', 'Swamp Food')
 test.describe_restaurant()
